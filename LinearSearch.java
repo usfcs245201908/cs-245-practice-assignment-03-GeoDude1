@@ -1,5 +1,4 @@
 public class LinearSearch implements Practice03Search {
-	
 	public String searchName(){
 		return "Linear Search";
 	}
